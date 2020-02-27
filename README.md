@@ -6,8 +6,10 @@
 
 ### Links and Resources
 
-- [submission PR]()
-- [ci/cd]() (GitHub Actions)
+- [submission PR](https://github.com/401-advanced-javascript-AhmadK/react-testinganddeployment/pull/1)
+- [ci/cd](https://github.com/401-advanced-javascript-AhmadK/react-testinganddeployment/actions) (GitHub Actions)
+- [gh-pages](https://401-advanced-javascript-ahmadk.github.io/react-testinganddeployment/)
+- [netlify]()
 
 #### How to initialize/run your application (where applicable)
 

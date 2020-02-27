@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/401-advanced-javascript-AhmadK/react-testinganddeployment/issues"
   },
-  "homepage": "https://401-advanced-javascript-AhmadK.github.io/react-testinganddeployment/",
+  "homepage": "/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
