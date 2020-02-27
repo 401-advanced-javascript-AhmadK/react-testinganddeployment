@@ -12,6 +12,6 @@ describe('<Footer />', ()=>{
   });
   it('renders correctly', () => {
     const tree = renderer.create(<Footer />).toJSON();
-    // expect(tree).toMatchSnapshot();
+    expect(tree).toMatchSnapshot();
   });
 });

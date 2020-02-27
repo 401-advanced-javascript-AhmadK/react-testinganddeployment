@@ -12,16 +12,16 @@ describe('<Counter />', ()=>{
   it('Increment the state on click',()=>{
     let app = mount(<Counter />);
     let button = app.find('.increase');
-    // expect(app.state('counter')).toBe(0);
-    // button.simulate('click');
-    // expect(app.state('counter')).toBe(1);
+    expect(app.state('counter')).toBe(0);
+    button.simulate('click');
+    expect(app.state('counter')).toBe(1);
   });
   it('Decrement the state on click',()=>{
     let app = mount(<Counter />);
     let button = app.find('.decrease');
-    // expect(app.state('counter')).toBe(0);
-    // button.simulate('click');
-    // expect(app.state('counter')).toBe(-1);
+    expect(app.state('counter')).toBe(0);
+    button.simulate('click');
+    expect(app.state('counter')).toBe(-1);
   });
   it('renders correctly', () => {
     const tree = renderer.create(<Counter />).toJSON();

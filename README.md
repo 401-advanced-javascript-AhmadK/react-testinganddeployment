@@ -7,6 +7,7 @@
 ### Links and Resources
 
 - [submission PR]()
+- [ci/cd]() (GitHub Actions)
 
 #### How to initialize/run your application (where applicable)
 
@@ -18,4 +19,4 @@
 
 #### UML
 
-![]()
+![react-testing-and-deployment](assets/react-testing-and-deployment.jpg)

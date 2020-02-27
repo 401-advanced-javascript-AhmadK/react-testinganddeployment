@@ -1,11 +1,11 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Header /> renders correctly 1`] = `
-  <header 
-                 className="appHeader"
-               >
-                 <h1>
-                   Ohhhhh My First React
-                 </h1>
-               </header>
+<header
+  className="appHeader"
+>
+  <h1>
+    Ohhhhh My First React
+  </h1>
+</header>
 `;
