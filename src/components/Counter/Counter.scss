@@ -1,0 +1,32 @@
+
+  .counter{
+    width: 80%;
+    margin: 0 auto;
+    background-color: darkgray;
+    padding-top: 25px;
+    height: 500px;
+    .number {
+      text-align: center;
+      font-family: sans-serif;
+      font-size: 75px;
+      font-weight: bold;
+    }
+    .increase{
+      margin-left: 20%;
+      margin-right: 7%;
+      border: none;
+      color: whitesmoke;
+      height: 35px;
+      width: 25%;
+      background-color: $backgroundColor;
+    }
+    .decrease{
+      margin-top: 50px;
+      margin-right: 20%;
+      border: none;
+      color: whitesmoke;
+      height: 35px;
+      width: 25%;
+      background-color: $backgroundColor;
+    }
+  }
